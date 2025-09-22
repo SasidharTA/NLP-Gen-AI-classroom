@@ -1,0 +1,3 @@
+ipykernel
+langchain
+llama_index

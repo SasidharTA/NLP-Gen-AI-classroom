@@ -1,3 +1,7 @@
 ipykernel
 langchain
 llama_index
+scikit-learn
+rank_bm25
+sentence_transformers
+faiss-cpu

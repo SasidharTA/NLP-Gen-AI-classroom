@@ -8,3 +8,10 @@ faiss-cpu
 langchain-community
 pymupdf
 chromadb
+datasets
+peft
+trl
+mlflow
+evaluate
+accelerate
+rouge_score

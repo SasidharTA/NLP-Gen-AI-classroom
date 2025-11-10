@@ -1,0 +1,517 @@
+text,summary,base_prediction
+"Analyze the following machine usage log data for Device: 5CG129261K.
+    The data spans 15.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 21.71% / 46.10%
+    - RAM Usage (Mean/Max): 76.46% / 89.21%
+
+    ### Data Completeness:
+    - Disk IO Usage: 15.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage on specific dates. It shows varying levels of resource usage, with the highest CPU usage on 2023-03-07 and highest RAM usage on the same date.",The following machine usage log data for Device: 5CG129261K. The data spans 15.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 21.71% / 46.10% - RAM Usage (Mean/Max): 76.46% / 89.21% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 8CG84120SR.
+    The data spans 31.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 9.20% / 21.80%
+    - RAM Usage (Mean/Max): 70.08% / 79.27%
+
+    ### Data Completeness:
+    - Disk IO Usage: 31.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in March 2023. It shows fluctuations in resource usage, with some days having significantly higher CPU usage than others.",Analyze machine usage log data for Device: 8CG84120SR. Data spans 31.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 9.20% / 21.80% - RAM Usage (Mean/Max): 70.08% / 79.27% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: RKM2411GRU.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): 24.98% / 38.34%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 27
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer RAM usage over time, from March 11, 2022, to May 2, 2022. It shows a consistent increase in RAM usage, with the highest usage being 38.34 GB on May 2, 2022.",Machine usage log data for device: RKM2411GRU. Data spans 0.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): nan% / nan% - RAM Usage (Mean/Max): 24.98% / 38.34% - Missing CPU entries: 27
+"Analyze the following machine usage log data for Device: 5CD0015DVT.
+    The data spans 19.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 6.52% / 13.12%
+    - RAM Usage (Mean/Max): 64.89% / 69.90%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 2022. It shows an increase in CPU usage on August 10th, 12th, and 24th, while RAM usage remains relatively high throughout the month.",Analyze the following machine usage log data for Device: 5CD0015DVT. The data spans 19.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 6.52% / 13.12% - RAM Usage (Mean/Max): 64.89% / 69.90% - Data Completeness: - Disk IO Usage: 0.0 non-null entries. Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CD0191DXS.
+    The data spans 15.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 3.67% / 6.93%
+    - RAM Usage (Mean/Max): 22.31% / 25.13%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains computer usage information for a single user (serial number 8717c7d4f0) in August 2022, including CPU, RAM, and disk IO usage. It shows varying levels of CPU and RAM usage across different dates, with missing disk IO usage data.",Analyze machine usage log data for Device: 5CD0191DXS. The data spans 15.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 3.67% / 6.93% - RAM Usage (Mean/Max): 22.31% / 25.13% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CG11165GX.
+    The data spans 31.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 32.88% / 44.94%
+    - RAM Usage (Mean/Max): 73.88% / 82.31%
+
+    ### Data Completeness:
+    - Disk IO Usage: 31.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of 31 days in March 2023. It shows fluctuations in resource usage, with a noticeable drop in CPU and RAM usage on March 23rd.",Analyze machine usage log data for device: 5CG11165GX. The data spans 31.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 32.88% / 44.94% - RAM Usage (Mean/Max): 73.88% / 82.31% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CG84301M4.
+    The data spans 26.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 37.57% / 71.81%
+    - RAM Usage (Mean/Max): 85.93% / 90.66%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period in August 2022. It shows varying levels of resource usage, with the highest CPU usage at 71.81% and the highest RAM usage at 90.66%.",The following machine usage log data for Device: 5CG84301M4 spans 26.0 data points.
+"Analyze the following machine usage log data for Device: 5CG81113J9.
+    The data spans 28.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 26.48% / 50.93%
+    - RAM Usage (Mean/Max): 80.59% / 90.37%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows varying levels of CPU and RAM usage, with missing data for disk IO usage.",The following machine usage log data for Device: 5CG81113J9. The data spans 28.0 data points.
+"Analyze the following machine usage log data for Device: 5CG94779GS.
+    The data spans 28.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 27.75% / 77.74%
+    - RAM Usage (Mean/Max): 72.52% / 81.55%
+
+    ### Data Completeness:
+    - Disk IO Usage: 28.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows varying levels of resource usage, with a significant spike in CPU and disk IO usage on 2023-03-24.",Analyze machine usage log data for device: 5CG94779GS. The data spans 28.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 27.75% / 77.74% - RAM Usage (Mean/Max): 72.52% / 81.55% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: HEH706ITLL.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): nan% / nan%
+
+    ### Data Completeness:
+    - Disk IO Usage: 27.0 non-null entries.
+    - Missing CPU entries: 27
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains daily disk IO usage for a specific user (serial number 2bb9a0cc7d) from March 30th to April 25th, 2022. It shows an overall increasing trend in disk IO usage over the given period.",Device: HEH706ITLL - CPU Usage: nan% / nan% - RAM Usage: nan% / nan% - Missing CPU entries: 27
+"Analyze the following machine usage log data for Device: MXL15224GC.
+    The data spans 31.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 28.19% / 85.09%
+    - RAM Usage (Mean/Max): 41.44% / 55.65%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage for each day in August 2022. It shows varying levels of resource usage, with some days having significantly higher CPU and RAM usage than others.",Analyze machine usage log data for device: MXL15224GC. Data spans 31.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 28.19% / 85.09% - RAM Usage (Mean/Max): 41.44% / 55.65% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CG1129HKP.
+    The data spans 28.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 7.85% / 12.07%
+    - RAM Usage (Mean/Max): 51.67% / 84.72%
+
+    ### Data Completeness:
+    - Disk IO Usage: 28.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains computer usage information for a user with serial number 97b43beeff from March 1 to March 29, 2023. It shows daily CPU, RAM, and disk IO usage, with RAM usage generally ranging between 40-60% and CPU usage varying between 1.99-12.07%.",Analyze machine usage log data for device: 5CG1129HKP. Data spans 28.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 7.85% / 12.07% - RAM Usage (Mean/Max): 51.67% / 84.72% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: R2IOQYDY5T.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): nan% / nan%
+
+    ### Data Completeness:
+    - Disk IO Usage: 18.0 non-null entries.
+    - Missing CPU entries: 18
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains disk IO usage for a specific user (serial number 5ee85d0715) over a period of time from February 15th, 2022 to June 14th, 2022. The disk IO usage shows an overall increasing trend, with the highest usage at 97.86 on June 14th, 2022.",The following machine usage log data for Device: R2IOQYDY5T.
+"Analyze the following machine usage log data for Device: 5CG9192KH5.
+    The data spans 26.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 34.48% / 77.11%
+    - RAM Usage (Mean/Max): 84.85% / 93.49%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of August 2022. It shows varying levels of CPU and RAM usage, with the highest CPU usage on August 10th (77.11%) and the highest RAM usage on August 18th (93.47%).",Analyze machine usage log data for Device: 5CG9192KH5.
+"Analyze the following machine usage log data for Device: 000909007M.
+    The data spans 14.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 11.70% / 37.04%
+    - RAM Usage (Mean/Max): 55.60% / 65.26%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over time. It shows varying levels of CPU and RAM usage, with missing disk IO usage data.",The following machine usage log data for Device: 000909007M.
+"Analyze the following machine usage log data for Device: 8CC1364BRR.
+    The data spans 31.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 2.20% / 3.62%
+    - RAM Usage (Mean/Max): 50.32% / 58.59%
+
+    ### Data Completeness:
+    - Disk IO Usage: 31.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in March 2023. It shows varying levels of resource usage, with some days having higher usage than others.",The 8CC1364BRR machine usage log data spans 31.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 2.20% / 3.62% - RAM Usage (Mean/Max): 50.32% / 58.59% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 4CV851W7PZ.
+    The data spans 29.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 8.53% / 15.39%
+    - RAM Usage (Mean/Max): 54.63% / 62.69%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows that CPU and RAM usage fluctuate, with a noticeable increase in CPU usage around August 16-17, while disk IO usage data is missing.",The following machine usage log data for Device: 4CV851W7PZ. Data spans 29.0 data points.
+"Analyze the following machine usage log data for Device: KJLZ4CR1P9.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): nan% / nan%
+
+    ### Data Completeness:
+    - Disk IO Usage: 29.0 non-null entries.
+    - Missing CPU entries: 29
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains disk IO usage information for a specific user (serial number 87fb912ac2) over a period from July 13, 2022, to September 7, 2022. It shows a general decreasing trend in disk IO usage over time, with the highest usage at 44.20% on July 17, 2022, and the lowest at 16.11% on September 3, 2022.",Analyze machine usage log data for device: KJLZ4CR1P9. Data spans 0.0 data points. ### Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): nan% / nan% - RAM Usage (Mean/Max): nan% / nan% - Missing CPU entries: 29.0 non-null entries.
+"Analyze the following machine usage log data for Device: INA138VB3Q.
+    The data spans 23.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 23.02% / 54.37%
+    - RAM Usage (Mean/Max): 81.04% / 86.02%
+
+    ### Data Completeness:
+    - Disk IO Usage: 23.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in March 2023. It shows fluctuations in resource usage, with some days having higher usage than others.",Analyze machine usage log data for device: INA138VB3Q. The data spans 23.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 23.02% / 54.37% - RAM Usage (Mean/Max): 81.04% / 86.02% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CG8224YM4.
+    The data spans 28.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 23.62% / 52.92%
+    - RAM Usage (Mean/Max): 78.41% / 89.58%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in August 2022. It shows varying levels of resource usage, with disk IO usage data missing.",Analyze machine usage log data for device: 5CG8224YM4. Data spans 28.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 23.62% / 52.92% - RAM Usage (Mean/Max): 78.41% / 89.58% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 2UA8491DQD.
+    The data spans 24.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 1.84% / 3.11%
+    - RAM Usage (Mean/Max): 23.55% / 32.43%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains computer usage information for a single user (serial number 5dc2c2be8b) during August 2022, including CPU, RAM, and disk IO usage. It shows varying levels of CPU and RAM usage throughout the month, with disk IO usage data missing.",The following machine usage log data for Device: 2UA8491DQD. The data spans 24.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 1.84% / 3.11% - RAM Usage (Mean/Max): 23.55% / 32.43% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CG84558MB.
+    The data spans 26.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 52.28% / 82.75%
+    - RAM Usage (Mean/Max): 87.06% / 91.92%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 2022. It shows varying levels of resource usage, with the highest CPU usage at 82.75% and RAM usage at 91.92%.",Analyze machine usage log data for device: 5CG84558MB. Data spans 26.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 52.28% / 82.75% - RAM Usage (Mean/Max): 87.06% / 91.92% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 2UA82226GD.
+    The data spans 31.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 3.21% / 4.06%
+    - RAM Usage (Mean/Max): 16.56% / 23.70%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a month (August 2022). It shows varying levels of resource usage, with missing data for disk IO usage.",The following machine usage log data for Device: 2UA82226GD. The data spans 31.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 3.21% / 4.06% - RAM Usage (Mean/Max): 16.56% / 23.70% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 4HXQ2Z2.
+    The data spans 13.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 11.12% / 14.95%
+    - RAM Usage (Mean/Max): 73.97% / 81.85%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage on specific dates. It shows varying levels of CPU and RAM usage, with missing disk IO usage data.",Analyze machine usage log data for Device: 4HXQ2Z2.
+"Analyze the following machine usage log data for Device: 40087229H.
+    The data spans 26.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 10.85% / 22.51%
+    - RAM Usage (Mean/Max): 77.73% / 84.78%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period in August 2022. It shows varying levels of resource usage, with missing data for disk IO usage.",The following machine usage log data for Device: 40087229H. The data spans 26.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 10.85% / 22.51% - RAM Usage (Mean/Max): 77.73% / 84.78% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: MXL10250W9.
+    The data spans 31.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 9.76% / 46.01%
+    - RAM Usage (Mean/Max): 46.34% / 58.41%
+
+    ### Data Completeness:
+    - Disk IO Usage: 31.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a computer's usage, including CPU, RAM, and disk IO usage for a specific user over a period of time in March 2023. It shows fluctuations in resource usage, with a general increase in CPU and RAM usage towards the end of the month.",Analyze machine usage log data for device: MXL10250W9. Data spans 31.0 data points. ### Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 9.76% / 46.01% - RAM Usage (Mean/Max): 46.34% / 58.41% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CG7475JXV.
+    The data spans 23.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 38.51% / 66.82%
+    - RAM Usage (Mean/Max): 75.42% / 80.56%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates in August 2022. It shows varying levels of resource usage, with no disk IO usage data available.",The following machine usage log data for Device: 5CG7475JXV.
+"Analyze the following machine usage log data for Device: CPYGHLFW90.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): nan% / nan%
+
+    ### Data Completeness:
+    - Disk IO Usage: 19.0 non-null entries.
+    - Missing CPU entries: 19
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains daily disk IO usage for a computer used by a specific user (serial number 875584c05c) from March 20, 2022, to April 7, 2022. The disk IO usage varies between 76.28% and 98.96% during this period, indicating fluctuations in the computer's workload.",The following machine usage log data for Device: CPYGHLFW90. The data spans 0.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): nan% / nan% - RAM Usage (Mean/Max): nan% / nan%
+"Analyze the following machine usage log data for Device: MXL15224G6.
+    The data spans 31.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 27.09% / 67.30%
+    - RAM Usage (Mean/Max): 43.87% / 67.06%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage for each day in August 2022. It shows varying levels of resource usage, with some days having higher CPU and RAM usage than others.",Analyze machine usage log data for device: MXL15224G6. Data spans 31.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 27.09% / 67.30% - RAM Usage (Mean/Max): 43.87% / 67.06% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CD0034YWH.
+    The data spans 24.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 7.57% / 12.02%
+    - RAM Usage (Mean/Max): 48.69% / 54.29%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in August 2022. It shows varying levels of CPU and RAM usage, with no data available for disk IO usage.",The following machine usage log data for Device: 5CD0034YWH. The data spans 24.0 data points.
+"Analyze the following machine usage log data for Device: MXL15224MS.
+    The data spans 31.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 20.83% / 63.46%
+    - RAM Usage (Mean/Max): 36.88% / 57.70%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a month. It shows varying levels of resource usage, with some days having significantly higher CPU and RAM usage than others.",Analyze machine usage log data for device: MXL15224MS. Data spans 31.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 20.83% / 63.46% - RAM Usage (Mean/Max): 36.88% / 57.70% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 8CN12304MG.
+    The data spans 22.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 23.81% / 41.95%
+    - RAM Usage (Mean/Max): 90.08% / 94.76%
+
+    ### Data Completeness:
+    - Disk IO Usage: 22.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time. It shows an increase in resource usage, particularly between March 8th and March 31st, with CPU and disk IO usage peaking on March 21st.",Analyze machine usage log data for Device: 8CN12304MG.
+"Analyze the following machine usage log data for Device: ASUG8R6B4V.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): nan% / nan%
+
+    ### Data Completeness:
+    - Disk IO Usage: 26.0 non-null entries.
+    - Missing CPU entries: 26
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains daily disk IO usage for a computer with the serial number 'ee7d053dc1' from June 25, 2022, to July 20, 2022. It shows an overall increasing trend in disk IO usage over the period, with the highest usage recorded on July 19, 2022, at 98.682205.",Analyze machine usage log data for device: ASUG8R6B4V.
+"Analyze the following machine usage log data for Device: 0KWGN007RJ.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): 9.44% / 17.04%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 28
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's daily RAM usage on a computer from February 25th to March 24th, 2022. It shows that the RAM usage generally increased over time, with the highest usage recorded on March 23rd at 17.039526.",The following machine usage log data for Device: 0KWGN007RJ.
+"Analyze the following machine usage log data for Device: ZK016729U.
+    The data spans 25.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 14.37% / 36.55%
+    - RAM Usage (Mean/Max): 80.25% / 84.43%
+
+    ### Data Completeness:
+    - Disk IO Usage: 25.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over time. It shows varying levels of resource usage, with a significant increase in CPU and disk IO usage towards the end of March 2023.",Analyze machine usage log data for device: ZK016729U. Data spans 25.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 14.37% / 36.55% - RAM Usage (Mean/Max): 80.25% / 84.43% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: E6VESLF8UI.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): nan% / nan%
+
+    ### Data Completeness:
+    - Disk IO Usage: 17.0 non-null entries.
+    - Missing CPU entries: 17
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains daily disk IO usage for a specific user (serial number 1e38b82296) from May 5th to May 21st, 2022. The disk IO usage fluctuates between 75.24 and 97.23, with no clear pattern or trend.",The following machine usage log data for Device: E6VESLF8UI. The data spans 0.0 data points.
+"Analyze the following machine usage log data for Device: FYOB52FBTX.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): 85.60% / 99.89%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 30
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer RAM usage over time, identified by their serial number. It shows that the user's RAM usage generally fluctuates between 60% and 100% from March to August 2022.",Analyze the following machine usage log data for Device: FYOB52FBTX. The data spans 0.0 data points. ### Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): nan% / nan% - RAM Usage (Mean/Max): 85.60% / 99.89% - Data Completeness: - Disk IO Usage: 0.0 non-null entries. Missing CPU entries: 30
+"Analyze the following machine usage log data for Device: 85OAP3G0G2.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): 68.02% / 96.90%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 17
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer RAM usage over time, identified by their serial number. It shows an overall increasing trend in RAM usage from 28.28% on 5/24/2022 to 76.22% on 6/25/2022.",Analyze machine usage log data for device: 85OAP3G0G2. Data spans 0.0 data points. ### Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): nan% / nan% - RAM Usage (Mean/Max): 68.02% / 96.90% - Missing CPU entries: 17
+"Analyze the following machine usage log data for Device: 5CG0520YW9.
+    The data spans 22.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 14.98% / 39.39%
+    - RAM Usage (Mean/Max): 74.99% / 82.71%
+
+    ### Data Completeness:
+    - Disk IO Usage: 22.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage for various dates in March 2023. It shows varying levels of resource usage, with a noticeable spike in CPU and disk IO usage on March 21st.",Analyze machine usage log data for device: 5CG0520YW9. Data spans 22.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 14.98% / 39.39% - RAM Usage (Mean/Max): 74.99% / 82.71% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: RNR4RPSEDF.
+    The data spans 0.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): nan% / nan%
+    - RAM Usage (Mean/Max): nan% / nan%
+
+    ### Data Completeness:
+    - Disk IO Usage: 20.0 non-null entries.
+    - Missing CPU entries: 20
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer disk IO usage over time, identified by their serial number. It shows a general decreasing trend in disk IO usage from May to August 2022.",Analyze machine usage log data for device: RNR4RPSEDF. The data spans 0.0 data points. ### Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): nan% / nan% - RAM Usage (Mean/Max): nan% / nan% - Missing CPU entries: 20
+"Analyze the following machine usage log data for Device: 5CG9156FJS.
+    The data spans 19.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 22.25% / 49.54%
+    - RAM Usage (Mean/Max): 87.27% / 90.35%
+
+    ### Data Completeness:
+    - Disk IO Usage: 19.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage on specific dates in March 2023. It shows varying levels of resource usage, with the highest CPU usage on March 14th and the lowest RAM usage on March 17th.",The following machine usage log data spans 19.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 22.25% / 49.54% - RAM Usage (Mean/Max): 87.27% / 90.35% - Missing CPU entries: 0
+"Analyze the following machine usage log data for Device: 5CG1339WVD.
+    The data spans 26.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 8.28% / 22.53%
+    - RAM Usage (Mean/Max): 80.74% / 87.60%
+
+    ### Data Completeness:
+    - Disk IO Usage: 26.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over a period of time in March 2023. It shows varying levels of resource usage, with some days having significantly higher CPU and disk IO usage than others.",The following machine usage log data for Device: 5CG1339WVD.
+"Analyze the following machine usage log data for Device: 5CD9156VLD.
+    The data spans 36.0 data points.
+
+    ### Key Performance Indicators (KPIs):
+    - CPU Usage (Mean/Max): 23.93% / 58.80%
+    - RAM Usage (Mean/Max): 59.82% / 73.17%
+
+    ### Data Completeness:
+    - Disk IO Usage: 0.0 non-null entries.
+    - Missing CPU entries: 0
+
+    TASK: Generate a concise, actionable business insight (similar to the provided GPT insight_0) based on this summary.","The data contains information about a user's computer usage, including CPU, RAM, and disk IO usage over various dates. It shows fluctuations in CPU and RAM usage, with the highest CPU usage on 2022-08-08 (58.80%) and the highest RAM usage on 2022-08-08 (73.17%).",The following machine usage log data for Device: 5CD9156VLD. The data spans 36.0 data points. Key Performance Indicators (KPIs): - CPU Usage (Mean/Max): 23.93% / 58.80% - RAM Usage (Mean/Max): 59.82% / 73.17% - Missing CPU entries: 0
